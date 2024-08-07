@@ -20,9 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_patel_dharmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_patel_dharmin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/morningstar721" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="morningstar721" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/agent721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agent721" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/morningstar721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="morningstar721" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dharmin-patel-96574b2ab" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw1K1APBmQ3u3ciF3WCW6_c-&ust=1723149853932000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiMlMrf44cDFQAAAAAdAAAAABAE" alt="morningstar721" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
